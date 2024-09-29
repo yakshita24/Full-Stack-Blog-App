@@ -154,7 +154,7 @@ JWT tokens are stored in cookies and are used for user authentication during pos
 ```
 .
 ├── controllers         # Controller functions for handling requests
-|    authController.js
+|   ├── authController.js
 │   ├── createPostController.js
 │   ├── getPostController.js
 │   ├── updatePostController.js
